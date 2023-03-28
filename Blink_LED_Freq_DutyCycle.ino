@@ -1,3 +1,4 @@
+// Vyankatesh Ashtekar 
 // Blink LED with required frequency and duty cycle
 // One can blink multiple LEDs together. Make new functions by renaming the variable "lastRisingEdgeTime2" to "lastRisingEdgeTimeN" for N LEDs
 // Non-blocking code
